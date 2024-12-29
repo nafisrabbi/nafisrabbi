@@ -28,7 +28,7 @@ I am passionate about exploring the realms of **Artificial Intelligence**, **Mac
 ---
 
 ## 📘 **Education**
-- 🎓 **M.Sc. in Computer Science and Engineering (2024)**, Brac University 
+- 🎓 **M.Sc. in Computer Science and Engineering (2024)**, BRAC University 
 - 🎓 **B.Sc. in Electrical and Electronic Engineering (2022)**, Ahsanullah University of Science and Technology 
 
 ---
@@ -49,6 +49,24 @@ I am passionate about exploring the realms of **Artificial Intelligence**, **Mac
 **Anchorblock Technology LLC** *(Mar 2023 – May 2023)*  
 - 📈 Applied **TensorFlow** and Python libraries for time series prediction and trading strategy development.  
 - 💡 Designed and tested trading strategies with tools like **Zipline** and **Hummingbot**.  
+
+---
+
+## 🔬 Research Experience
+
+### 📊 [Cryptocurrency Price Dynamics Prediction](https://github.com/nafisrabbi/Bitcoin_Buy_and_Sell_Prediction)  
+**M.Sc. Dissertation** | BRAC University (2023–2024)  
+- Investigated cryptocurrency price behavior using financial indicators and sentiment analysis.  
+- Built machine learning models to identify key drivers and optimize predictive performance.  
+- Conducted backtesting with top indicators, improving accuracy and decision-making.
+
+---
+
+### 🩺 [ECG Signal Classification](https://github.com/nafisrabbi/ECG-Signal-Classfication)  
+**B.Sc. Dissertation** | Ahsanullah University of Science & Technology (2021–2022)  
+- Applied **Wavelet Transform** for denoising ECG signals.  
+- Used **CNN** and **ANN** to classify signals, achieving high performance.  
+- Evaluated models using **MSE**, **SNR**, and other metrics to optimize accuracy.
 
 ---
 
@@ -96,7 +114,6 @@ I am passionate about exploring the realms of **Artificial Intelligence**, **Mac
 ### 🌊 **Automatic Water Level Management**  
 - Built a hardware system using **soil sensors** to measure water levels and control motor operation.  
 - Designed and implemented a **relay-based switching circuit** to improve reliability.  
-- Successfully automated water management, reducing manual intervention and enhancing efficiency.  
 
 *(Explore more projects in my repositories!)*  
 
