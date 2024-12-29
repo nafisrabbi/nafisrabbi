@@ -99,11 +99,16 @@ I am passionate about exploring the realms of **Artificial Intelligence**, **Mac
 ---
 
 ## 💡 **Projects**
-### 📈 **Stock Price Prediction for S&P 500**  
+### 🤖 **[Fine-Tune LLM](https://github.com/nafisrabbi/Fine_Tune_LLM)**  
+- Fine-tuned a **Large Language Model (LLM)** for domain-specific tasks.  
+- Focused on optimizing model performance and adapting pre-trained architectures for specialized applications.  
+- Implemented evaluation strategies to measure the effectiveness of the fine-tuned model.
+
+### 📈 **[Stock Price Prediction for S&P 500](https://github.com/nafisrabbi/Stock-price-prediction-for-S-P500)**  
 - Implemented ML algorithms to predict 5-day closing price changes.  
 - Utilized Yahoo Finance data and optimized predictions using **MSE** and **RMSE**.  
 
-### ✍️ **Handwritten Digit Recognition**  
+### ✍️ **[Handwritten Digit Recognition](https://github.com/nafisrabbi/Handwritten-Digit-Recognition)**  
 - Achieved 98% accuracy using a custom deep learning model with **TensorFlow**.
 - Designed a deep learning model with 5 layers, achieving 98% accuracy in recognition tasks.
 
