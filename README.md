@@ -112,6 +112,11 @@ I am passionate about exploring the realms of **Artificial Intelligence**, **Mac
 - Achieved 98% accuracy using a custom deep learning model with **TensorFlow**.
 - Designed a deep learning model with 5 layers, achieving 98% accuracy in recognition tasks.
 
+### 🔍 **[Retrieval-Augmented Generation](https://github.com/nafisrabbi/Retrieval_Augmented_Generation)** 
+- Designed a **Retrieval-Augmented Generation (RAG)** pipeline to enhance question-answering tasks for pdf and website.  
+- Integrated a retrieval system to fetch relevant context from external documents for LLMs using llama and mixtral.  
+- Evaluated performance on domain-specific datasets, improving accuracy and relevance of generated outputs.
+
 ### ⚡ **Microcontroller-Based Automatic Power Factor Improvement**  
 - Developed a system using a PIC microcontroller and capacitor bank for power factor correction.
 - Programmed the microcontroller in C++ and converted the code to hex format for deployment.
