@@ -117,7 +117,7 @@ I am passionate about exploring the realms of **Artificial Intelligence**, **Mac
 - Integrated a retrieval system to fetch relevant context from external documents for LLMs using llama and mixtral.  
 - Evaluated performance on domain-specific datasets, improving accuracy and relevance of generated outputs.
 
-### ⚡ **Microcontroller-Based Automatic Power Factor Improvement**  
+### ⚡ **[Microcontroller-Based Automatic Power Factor Improvement](https://github.com/nafisrabbi/Power-Factor-Improvement-Using-Microcontroller)**  
 - Developed a system using a PIC microcontroller and capacitor bank for power factor correction.
 - Programmed the microcontroller in C++ and converted the code to hex format for deployment.
 
